@@ -72,12 +72,6 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
         // }         
 
         
-        
-        
-        
-        
-        
-        
     })
  
 }
@@ -93,15 +87,9 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
 
     var y = String.fromCharCode(x);  // Convert the value into a character
 
-   
+  
 
-
-
-    console.log("You pressed " + y + " and its charCode is " + x);
-
-    // display which key was pressed, along with its charCode, in an alert
-
-    
+    //console.log("You pressed " + y + " and its charCode is " + x);
 
     // -----------------------------
 
