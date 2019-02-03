@@ -1,3 +1,5 @@
+alert("Lower volume 👌");
+
 // ______________________________EventListeners START_____________________________
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 for (var i = 0; i < numberOfDrumButtons; i++) {
